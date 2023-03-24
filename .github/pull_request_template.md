@@ -20,7 +20,7 @@ As discussed in #(issue) we need to support xxx. Therefore we changed yyy.
 <!-- Please list and describe tests that you performed -->
 <!-- You should always do some tests! -->
 
-- [ ] Test A
+- [ ] Apply of all examples was successfull
 - [ ] Test B
 
 # Checklist:

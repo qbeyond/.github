@@ -13,8 +13,8 @@ As discussed in #(issue) we need to support xxx. Therefore we changed yyy.
 
 # Version information: 
 
-<!-- Look up the current Version and update it below -->
-- Current Version: `major.minor.patch`
+<!-- Look up the current/previous Version and update it below -->
+- Previous Version: `major.minor.patch`
 <!-- Update the version below, under which version you plan to release this PR. See Link on information how to increment the version number -->
 - Next Version based on [Semantic Versioning](https://semver.org/#summary) (see above): `major.minor.patch`
 

@@ -31,3 +31,4 @@ As discussed in #(issue) we need to support xxx. Therefore we changed yyy.
 - [ ] I have run tests and documented them above
 - [ ] I have performed a self-review of my own code
 - [ ] I have updated the documentation
+- [ ] I have updated the CHANGELOG
